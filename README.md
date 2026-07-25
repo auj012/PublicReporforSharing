@@ -14,7 +14,7 @@ This repository is my portfolio index. Everything I'm building in the open is li
 | [**Sanjeevani Aushad**](https://github.com/auj012/4.Sanjeeva-Aushadh) | Medication decision-support platform exploring allergy safety and medication guidance across three products (Divya Drishti → Lakshman Rekha → Sanjeevani) | AI Product Manager, Solution Architect | Product specification & architecture defined |
 | [**Project Pixie**](https://github.com/auj012/1.PixieMyFirstAIAgent) | Local AI agent powered by Ollama that analyzes a person's name to infer linguistic origin, literal meaning, and cultural metadata | AI Product Manager, AI Agent developer | In progress |
 | [**Employer Hiring Experience Score**](https://github.com/auj012/2.Employer_ScoreCard) | Investigation into whether the candidate hiring experience can be measured using a structured scoring framework before determining whether AI is appropriate | AI Product Manager | Feasibility assessment complete |
-| [**Drishti**](https://github.com/auj012/5.Dristi) | Exploring how hiring managers evaluate resumes and whether AI can improve candidate-job matching | Product Manager | Ideation |
+
 
 Each project repository follows the same structure:
 

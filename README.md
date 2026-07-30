@@ -1,6 +1,6 @@
 # Ushasree Jakilinki — Applied AI Portfolio
 
-Principal Technical Program Manager (25+ years) transitioning into Applied AI Product Management. I start with real problems, determine whether AI is the right solution, define the MVP, identify the data required, and design an evaluation strategy before building the prototype. Currently pursuing an M.S. in Applied Data Science (AI concentration) at the University of Michigan, and deepening my clinical domain knowledge through the American Diabetes Association's Diabetes Virtual Camp — sharpening a focus on evidence-grounded AI for diabetes and chronic disease.
+Principal Technical Program Manager (25+ years) transitioning into Applied AI Product Management. I start with real problems, determine whether AI is the right solution, define the MVP, identify the data required, and design an evaluation strategy before building the prototype. Currently pursuing an M.S. in Applied Data Science (AI concentration) at the University of Michigan, and deepening my clinical domain knowledge through the American Diabetes Association's Diabetes Virtual Camp.
 
 
 

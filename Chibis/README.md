@@ -7,7 +7,7 @@ This repository contains the visual assets and diagrams tracking our development
 
 | Preview | File Name | Description |
 | :---: | :--- | :--- |
-| ![UshaSnowChibi](./UshaSnowDChibi.png) | `UshaSnowDChibi.png` | Chibi avatar/character illustration. |
+| ![UshaSnowChibi](./UshaSnowMain.png) | `UshaSnowDChibi.png` | Chibi avatar/character illustration. |
 | ![CodeBasicAIPMRide](./CodeBasicAIPMRIde.png) | `CodeBasicAIPMRide.png` | AI PM Ride analysis/visualization. |
 | ![DhavalBhaiSearching](./DhavalBhaiSearching.png) | `DhavalBhaiSearching.png` | Search flow or asset placeholder. |
 | ![SWDeveloper_to_Builder](./SWDeveloper_to_Builder.png) | `SWDeveloper_to_Builder.png` | Developer to builder transition roadmap. |

@@ -1,5 +1,4 @@
-![Uploading image.png…]()
-# Project Gallery
+# ChibiGallery
 
 This repository contains the visual assets and diagrams tracking our development progress and AI initiatives.
 
